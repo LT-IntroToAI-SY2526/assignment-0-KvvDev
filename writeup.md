@@ -1,8 +1,7 @@
 # Assignment 0 Writeup
 
-**Name:** [Your name here]  
-**Date:** [Today's date]
-
+**Name:** Avery Liu
+**Date:** 8/19/2025
 ---
 
 ## Reading Comprehension Questions
@@ -10,15 +9,16 @@ All answers can be found in the README.md file
 
 **1. What is the difference between Git and GitHub?**
 
-[Your answer here]
+Git is a VCS which is a tool for tracking how your code changes over time. GitHub is an interface for using Git.
+
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
-[Your answer here]
+Committing and pushing is saving the changes stored on your computer to a Git repository. A commit is a change stored on your computer, and pushing the commmit is applying it to the repository.
 
 **3. What is a repository and what does it contain?**
 
-[Your answer here]
+A repository is a big folder with
 
 ---
 
