@@ -16,9 +16,10 @@ Git is a VCS which is a tool for tracking how your code changes over time. GitHu
 
 Committing and pushing is saving the changes stored on your computer to a Git repository. A commit is a change stored on your computer, and pushing the commmit is applying it to the repository.
 
+
 **3. What is a repository and what does it contain?**
 
-A repository is a big folder with
+A repository is a big folder with all the files needed for a project. You can see all your repositories on your Github dashboard.
 
 ---
 
