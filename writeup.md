@@ -27,7 +27,7 @@ A repository is a big folder with all the files needed for a project. You can se
 
 **Link to your GitHub profile repository:** 
 
-[Paste your profile repository link here - it should look something like: https://github.com/yourusername/yourusername]
+https://github.com/KvvDev/KvvDev
 
 ---
 
@@ -35,7 +35,7 @@ A repository is a big folder with all the files needed for a project. You can se
 
 **What aspect of AI are you most excited to learn about this year? Explain why.**
 
-[Your answer here - feel free to write a paragraph or more!]
+What is to come. I want to know what kinds of technological advancements are coming in the field, and if humanity, as a civilization, is ready to encounter strange new types of minds. Anything is possible, but I want to know where to start.
 
 ---
 
